@@ -1,0 +1,1 @@
+/Users/nishantullal/fig-export/dotfiles/dotfile.fish
