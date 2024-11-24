@@ -4,7 +4,7 @@ local config = wezterm.config_builder()
 
 config = {
     enable_tab_bar = false,
-    window_background_opacity = 0.85,
+    window_background_opacity = 0.75,
     window_decorations = "RESIZE",
     automatically_reload_config = true,
     window_close_confirmation = "NeverPrompt",
